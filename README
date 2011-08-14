@@ -1,0 +1,3 @@
+I've built this framework for almost three years in development and production. I try to tackle Java Desktop database complexity, by defining a consistent look and feel and user interaction. The result is Core. After that I realize that some part of Core can be more generalized, such as database connection, to allow me use this library in Java Web application. So, I extracted CoreSystem from Core. I use this two library into SMSGateway as the base of my SMS Gateway library. 
+
+Hope it helps, to some extents, to some audiences
